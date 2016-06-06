@@ -8,6 +8,8 @@
  * This is really weird behaviour, but documented here: http://php.net/manual/en/language.oop5.decon.php
  *
  */
+require "/../model/Test.php";
+
 class Home extends Controller
 {
     /**
